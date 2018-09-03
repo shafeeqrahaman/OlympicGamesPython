@@ -7,7 +7,7 @@ Note that the Winter and Summer Games were held in the same year up until 1992. 
 Content
 The file athlete_events.csv contains 271116 rows and 15 columns. Each row corresponds to an individual athlete competing in an individual Olympic event (athlete-events). The columns are:
 
-ID - Unique number for each athlete /n
+ID - Unique number for each athlete \n
 Name - Athlete's name
 Sex - M or F
 Age - Integer
